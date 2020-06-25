@@ -1,0 +1,24 @@
+.header{
+
+    grid-area: h;
+    background-color: green;
+  }
+  
+  .header img {
+  width: 60px;
+  
+  }
+  
+  .loginBLock{
+
+    float: right;
+
+
+  }
+
+    
+  .loginBLock a{
+
+color: white;
+
+  }
